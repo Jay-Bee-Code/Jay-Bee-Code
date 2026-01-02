@@ -6,10 +6,10 @@
   <p>Based in <b>Mostaganem, Algeria 🇩🇿</b></p>
 
   <p>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:bensiahmed.jalil@example.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-3b0764?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin">
+    <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdeldjalil-ben-si-ahmed-26b542273/)">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://jaybeecode.com">

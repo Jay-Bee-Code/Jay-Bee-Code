@@ -26,13 +26,5 @@
 
   <br>
 
-  <h3>📊 GitHub Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jay-Bee-Code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jalil's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Bee-Code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </p>
-
-  <br>
-  <img src="https://raw.githubusercontent.com/Jay-Bee-Code/Jay-Bee-Code/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 
 </div>
